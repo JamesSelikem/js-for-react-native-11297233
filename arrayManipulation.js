@@ -32,6 +32,7 @@ function formatArrayStrings(strings, numbers) {
     return formattedStrings;
 }
 
+//Example
 var inputStrings = ["First", "Assignment", "Mobile", "Development"];
 var inputNumbers = [1, 2, 3, 4, 5];
 var processedNumbers = processArray(inputNumbers);
